@@ -25,7 +25,7 @@ class Solution2(object):
 
         return True
 
-# Better Solution 
+# Better Solution
 class Solution(object):
     def isPalindrome(self, s):
         """
